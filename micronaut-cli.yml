@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.tech.ms
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: maven
+features: [app-name, docker, file-watch, http-client, jib, junit, kotlin, kotlin-application, kubernetes, log4j2, management, maven, micrometer, micrometer-prometheus, netty-server, openapi, readme, yaml]

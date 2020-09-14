@@ -1,0 +1,12 @@
+micronaut:
+  application:
+    name: micronautKotlinService
+  server:
+    port: 8092
+  metrics:
+    export:
+      prometheus:
+        enabled: true
+        descriptions: true
+        step: PT1M
+    enabled: true
